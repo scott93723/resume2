@@ -1,2 +1,1 @@
-# resume2
-https://scott93723.github.io/resume2/
+https://scott93723.github.io/thor_studio/
